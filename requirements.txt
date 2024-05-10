@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-addons
+vit-keras
+matplotlib
+numpy
+pillow
+scikit-learn
+seaborn
